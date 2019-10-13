@@ -1,0 +1,127 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Users\\Paul\\AppData\\Local\\Arduino15\\packages\\Heltec-esp32\\hardware\\esp32\\0.0.2-rc1\\cores\\esp32"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Users\\Paul\\AppData\\Local\\Arduino15\\packages\\Heltec-esp32\\hardware\\esp32\\0.0.2-rc1\\variants\\wifi_kit_32"
+  },
+  {
+    "Sourcefile": "e:\\Google Drive\\Arduino\\Battery Controller\\build\\sketch\\BatteryController.ino.cpp",
+    "Include": "heltec.h",
+    "Includepath": "E:\\Users\\Paul\\Documents\\Arduino\\libraries\\Heltec_ESP32_Dev-Boards\\src"
+  },
+  {
+    "Sourcefile": "e:\\Google Drive\\Arduino\\Battery Controller\\build\\sketch\\BatteryController.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "C:\\Users\\Paul\\AppData\\Local\\Arduino15\\packages\\Heltec-esp32\\hardware\\esp32\\0.0.2-rc1\\libraries\\Wire\\src"
+  },
+  {
+    "Sourcefile": "e:\\Google Drive\\Arduino\\Battery Controller\\build\\sketch\\BatteryController.ino.cpp",
+    "Include": "WiFi.h",
+    "Includepath": "C:\\Users\\Paul\\AppData\\Local\\Arduino15\\packages\\Heltec-esp32\\hardware\\esp32\\0.0.2-rc1\\libraries\\WiFi\\src"
+  },
+  {
+    "Sourcefile": "e:\\Google Drive\\Arduino\\Battery Controller\\build\\sketch\\BatteryController.ino.cpp",
+    "Include": "ArduinoMqttClient.h",
+    "Includepath": "E:\\Users\\Paul\\Documents\\Arduino\\libraries\\ArduinoMqttClient\\src"
+  },
+  {
+    "Sourcefile": "e:\\Google Drive\\Arduino\\Battery Controller\\build\\sketch\\BatteryController.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "E:\\Users\\Paul\\Documents\\Arduino\\libraries\\Heltec_ESP32_Dev-Boards\\src\\heltec.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "E:\\Users\\Paul\\Documents\\Arduino\\libraries\\Heltec_ESP32_Dev-Boards\\src\\lora\\LoRa.cpp",
+    "Include": "SPI.h",
+    "Includepath": "C:\\Users\\Paul\\AppData\\Local\\Arduino15\\packages\\Heltec-esp32\\hardware\\esp32\\0.0.2-rc1\\libraries\\SPI\\src"
+  },
+  {
+    "Sourcefile": "E:\\Users\\Paul\\Documents\\Arduino\\libraries\\Heltec_ESP32_Dev-Boards\\src\\lora\\LoRa.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "E:\\Users\\Paul\\Documents\\Arduino\\libraries\\Heltec_ESP32_Dev-Boards\\src\\oled\\OLEDDisplay.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "E:\\Users\\Paul\\Documents\\Arduino\\libraries\\Heltec_ESP32_Dev-Boards\\src\\oled\\OLEDDisplayUi.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Paul\\AppData\\Local\\Arduino15\\packages\\Heltec-esp32\\hardware\\esp32\\0.0.2-rc1\\libraries\\Wire\\src\\Wire.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Paul\\AppData\\Local\\Arduino15\\packages\\Heltec-esp32\\hardware\\esp32\\0.0.2-rc1\\libraries\\WiFi\\src\\ETH.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Paul\\AppData\\Local\\Arduino15\\packages\\Heltec-esp32\\hardware\\esp32\\0.0.2-rc1\\libraries\\WiFi\\src\\WiFi.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Paul\\AppData\\Local\\Arduino15\\packages\\Heltec-esp32\\hardware\\esp32\\0.0.2-rc1\\libraries\\WiFi\\src\\WiFiAP.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Paul\\AppData\\Local\\Arduino15\\packages\\Heltec-esp32\\hardware\\esp32\\0.0.2-rc1\\libraries\\WiFi\\src\\WiFiClient.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Paul\\AppData\\Local\\Arduino15\\packages\\Heltec-esp32\\hardware\\esp32\\0.0.2-rc1\\libraries\\WiFi\\src\\WiFiGeneric.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Paul\\AppData\\Local\\Arduino15\\packages\\Heltec-esp32\\hardware\\esp32\\0.0.2-rc1\\libraries\\WiFi\\src\\WiFiMulti.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Paul\\AppData\\Local\\Arduino15\\packages\\Heltec-esp32\\hardware\\esp32\\0.0.2-rc1\\libraries\\WiFi\\src\\WiFiSTA.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Paul\\AppData\\Local\\Arduino15\\packages\\Heltec-esp32\\hardware\\esp32\\0.0.2-rc1\\libraries\\WiFi\\src\\WiFiScan.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Paul\\AppData\\Local\\Arduino15\\packages\\Heltec-esp32\\hardware\\esp32\\0.0.2-rc1\\libraries\\WiFi\\src\\WiFiServer.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Paul\\AppData\\Local\\Arduino15\\packages\\Heltec-esp32\\hardware\\esp32\\0.0.2-rc1\\libraries\\WiFi\\src\\WiFiUdp.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "E:\\Users\\Paul\\Documents\\Arduino\\libraries\\ArduinoMqttClient\\src\\MqttClient.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Paul\\AppData\\Local\\Arduino15\\packages\\Heltec-esp32\\hardware\\esp32\\0.0.2-rc1\\libraries\\SPI\\src\\SPI.cpp",
+    "Include": "",
+    "Includepath": ""
+  }
+]

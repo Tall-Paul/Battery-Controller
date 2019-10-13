@@ -1,0 +1,40 @@
+
+
+union(){
+    difference(){
+        union(){
+            difference(){
+                cube([64,84,50]);
+                translate([1,1,1]){
+                    cube([62,82,50]);
+                }
+            }
+            difference(){
+                translate([1,1,1]){
+                    cube([62,82,25]);
+                }
+                translate([3,3,2]){
+                    cube([58,78,25]);
+                }
+                translate([1,42,6]){
+                    cube([62,42,20]);
+                }
+            }
+        }
+        translate([50,0,31]){
+            cube([13,2,10]);
+        }
+        translate([30,83,31]){
+            cube([33,2,10]);
+        }
+        translate([4,83,11]){
+            cube([56,2,10]);
+        }
+        translate([0,10,31]){
+            cube([2,20,10]);
+        }
+    }
+    translate([1,80,24]){
+        cube([62,4,2]);
+    }
+}
